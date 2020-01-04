@@ -1,5 +1,5 @@
 pub fn factorial_func (num:i32) {
-    if num == 0; {
+    if num == 0 {
     println!("1!");
     }
     else {
